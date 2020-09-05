@@ -441,7 +441,7 @@
                 var this_img = $(this);
                 var img_src = this_img.attr("data-bg");
                 var img_type = img_src.split(".").pop();
-                var retina_img = img_src.replace("." + img_type, "@2x." + img_type);
+                var retina_img = img_src.replace("." + img_type, "." + img_type);
                 this_img.css({
                     "background-image": "url('" + retina_img + "')"
                 });
