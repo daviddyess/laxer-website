@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="squarespace.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15">
+    <clipPath
+       id="_clipPath_fogIZqJTQx9B4msy0nvwBFTdjbriuCmw">
+      <path
+         d="m 24,6 v 0 c 0.828,0 1.5,0.896 1.5,2 v 12 h -3 V 8 c 0,-1.104 0.672,-2 1.5,-2 z"
+         style="fill:url(#_lgradient_33);stroke:none;stroke-miterlimit:10"
+         id="path18" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="2.73"
+     inkscape:cx="-6.9650326"
+     inkscape:cy="59.016407"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <title
+     id="title2">squarespace</title>
+  <path
+     d="m 58.083778,22.53934 v 0 c -1.581343,0 -2.864753,-1.283409 -2.864753,-2.864753 v 0 c 0,-1.581343 1.28341,-2.864753 2.864753,-2.864753 v 0 h 14.323766 c 5.53327,0 10.026636,4.493365 10.026636,10.026636 v 45.83605 c 0,5.533271 -4.493366,10.026636 -10.026636,10.026636 H 26.571492 c -5.53327,0 -10.026635,-4.493365 -10.026635,-10.026636 V 26.83647 c 0,-5.533271 4.493365,-10.026636 10.026635,-10.026636 h 14.323767 v 0 c 1.581344,0 2.864753,1.28341 2.864753,2.864753 v 0 c 0,1.581344 -1.283409,2.864753 -2.864753,2.864753 v 0 H 29.436245 c -3.953359,0 -7.161883,3.208524 -7.161883,7.161883 v 40.106544 c 0,3.953359 3.208524,7.161883 7.161883,7.161883 h 40.106546 c 3.953359,0 7.161883,-3.208524 7.161883,-7.161883 V 29.701223 c 0,-3.953359 -3.208524,-7.161883 -7.161883,-7.161883 z"
+     fill="url(#_lgradient_32)"
+     id="path7"
+     style="isolation:isolate;fill:#43e97b;fill-opacity:1;stroke-width:1.43238" />
+  <path
+     d="m 49.489519,23.971717 v 0 c 1.186007,0 2.148565,1.283409 2.148565,2.864753 v 17.188519 h -4.29713 V 26.83647 c 0,-1.581344 0.962557,-2.864753 2.148565,-2.864753 z"
+     style="isolation:isolate;fill:#43e97b;fill-opacity:1;stroke:none;stroke-width:1.43238;stroke-miterlimit:10"
+     id="path16" />
+  <g
+     clip-path="url(#_clipPath_fogIZqJTQx9B4msy0nvwBFTdjbriuCmw)"
+     id="g21"
+     style="isolation:isolate"
+     transform="matrix(1.4323766,0,0,1.4323766,15.11248,15.377458)" />
+  <path
+     d="m 47.340954,46.889742 c 0,-1.186008 0.962557,-2.148565 2.148565,-2.148565 1.186007,0 2.148565,0.962557 2.148565,2.148565 0,1.186008 -0.962558,2.148565 -2.148565,2.148565 -1.186008,0 -2.148565,-0.962557 -2.148565,-2.148565 z m 2.148565,-5.729506 v 0 c 3.162687,0 5.729506,2.566819 5.729506,5.729506 v 8.594259 c 0,3.162688 -2.566819,5.729507 -5.729506,5.729507 v 0 c -3.162687,0 -5.729507,-2.566819 -5.729507,-5.729507 v -8.594259 c 0,-3.162687 2.56682,-5.729506 5.729507,-5.729506 z m -2.148565,14.323765 c 0,-1.581343 0.962557,-2.864753 2.148565,-2.864753 1.186007,0 2.148565,1.28341 2.148565,2.864753 0,1.581344 -0.962558,2.864754 -2.148565,2.864754 -1.186008,0 -2.148565,-1.28341 -2.148565,-2.864754 z"
+     fill-rule="evenodd"
+     fill="url(#_lgradient_34)"
+     id="path28"
+     style="isolation:isolate;fill:#43e97b;fill-opacity:1;stroke-width:1.43238" />
+</svg>
