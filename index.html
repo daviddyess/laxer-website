@@ -1,36 +1,31 @@
 <!doctype html>
 <html lang="en_US">
 <head>
-	<meta charset="utf-8">
-	<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<meta charset="utf-8">
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
 <meta content='#1D1F28' name='theme-color'/>
 <meta content='#1D1F28' name='msapplication-navbutton-color'/>
 <meta content='yes' name='apple-mobile-web-app-capable'/>
 <meta content='#1D1F28' name='apple-mobile-web-app-status-bar-style'/>
-<link expr:href='data:blog.url' hreflang='x-default' rel='alternate'/>
-<b:include data='blog' name='all-head-content'/>
-    <!-- Meta keywords -->
-    <b:if cond='data:view.isHomepage'>
-      <meta expr:content='data:blog.title' name='keywords'/>
-    <b:elseif cond='data:view.isSingleItem'/>
-      <meta expr:content='data:blog.pageName' name='keywords'/>
-    </b:if>
+<!-- Primary Meta Tags -->
+<title>Laxer OS : Arch based Linux distribution</title>
+<meta name="title" content="Laxer OS : Arch based Linux distribution">
+<meta name="description" content="Laxer OS is an Arch Linux-based distribution of Linux for work and everyday use with highly focused on security, reliability, and performance. ">
 
-    <!-- Facebook Open Graph Meta Tag -->
-    <b:if cond='data:view.isSingleItem'>
-      <meta expr:content='data:blog.pageName' property='og:title'/>
-      <meta content='article' property='og:type'/>
-    <b:else/>
-      <meta expr:content='data:blog.pageTitle' property='og:title'/>
-      <meta content='website' property='og:type'/>
-    </b:if>
-    <b:if cond='data:blog.metaDescription'>
-      <meta expr:content='data:blog.metaDescription' property='og:description'/>
-    </b:if>
-    <meta expr:content='data:blog.title' property='og:site_name'/>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Laxer OS : Arch based Linux distribution</title>
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://laxeros.com">
+<meta property="og:title" content="Laxer OS : Arch based Linux distribution">
+<meta property="og:description" content="Laxer OS is an Arch Linux-based distribution of Linux for work and everyday use with highly focused on security, reliability, and performance. ">
+<meta property="og:image" content="">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://laxeros.com">
+<meta property="twitter:title" content="Laxer OS : Arch based Linux distribution">
+<meta property="twitter:description" content="Laxer OS is an Arch Linux-based distribution of Linux for work and everyday use with highly focused on security, reliability, and performance. ">
+<meta property="twitter:image" content="">
+
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:600|Source+Sans+Pro:600,700" rel="stylesheet">
 	<link rel="stylesheet" href="assets/css/laxer.min.css"/>
 </head>
@@ -59,7 +54,7 @@
 				<ul class="nav navbar-nav">
 					<!-- Nav Item -->
 					<li>
-						<a href="about.html">About</a>
+						<a href="/pages/about.html">About</a>
 					</li>
 					<!-- Nav Item -->
 					<li>
@@ -71,7 +66,7 @@
 					</li>
                     <!-- Nav Item -->
 					<li>
-						<a href="donate.html">Donate</a>
+						<a href="pages/donate.html">Donate</a>
 					</li>
 					<!-- Nav Item -->
 					<li>
