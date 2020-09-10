@@ -1,129 +1,135 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://www.laxeros.com/www.laxeros.com</loc>
+  <loc>https://www.laxeros.com/</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>https://www.laxeros.com/about</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>https://www.laxeros.com/#</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
+</url>
+<url>
+  <loc>https://www.laxeros.com/packages</loc>
+  <priority>1.0</priority>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>https://www.laxeros.com/donate</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>https://www.laxeros.com/index</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>https://www.laxeros.com/index#</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>https://www.laxeros.com/contact</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>http://www.laxeros.com</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>https://www.laxeros.com</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
-</url>
-<url>
-  <loc>https://www.laxeros.com/</loc>
-  <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>https://www.laxeros.com/l#</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>https://www.laxeros.com/pages/donate</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
-  <loc>http://www.laxeros.com/www.laxeros.com</loc>
+  <loc>http://www.laxeros.com/</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>http://www.laxeros.com/about</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>http://www.laxeros.com/#</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
+</url>
+<url>
+  <loc>http://www.laxeros.com/packages</loc>
+  <priority>1.0</priority>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>http://www.laxeros.com/donate</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>http://www.laxeros.com/index</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>http://www.laxeros.com/index#</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>http://www.laxeros.com/contact</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>http://www.laxeros.com/l#</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 <url>
   <loc>http://www.laxeros.com/pages/donate</loc>
   <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2020-09-07</lastmod>
+  <changefreq>hourly</changefreq>
+  <lastmod>2020-09-11</lastmod>
 </url>
 </urlset>
